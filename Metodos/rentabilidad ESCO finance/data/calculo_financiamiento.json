@@ -1,0 +1,58 @@
+[
+    {
+        "Ano": 1,
+        "Capital": -152921943,
+        "Cuota": -29451523,
+        "Pago intereses": -16439109,
+        "Amortizacion": -13012414
+    },
+    {
+        "Ano": 2,
+        "Capital": -139909529,
+        "Cuota": -29451523,
+        "Pago intereses": -15040274,
+        "Amortizacion": -14411249
+    },
+    {
+        "Ano": 3,
+        "Capital": -125498280,
+        "Cuota": -29451523,
+        "Pago intereses": -13491065,
+        "Amortizacion": -15960458
+    },
+    {
+        "Ano": 4,
+        "Capital": -109537822,
+        "Cuota": -29451523,
+        "Pago intereses": -11775316,
+        "Amortizacion": -17676207
+    },
+    {
+        "Ano": 5,
+        "Capital": -91861615,
+        "Cuota": -29451523,
+        "Pago intereses": -9875124,
+        "Amortizacion": -19576400
+    },
+    {
+        "Ano": 6,
+        "Capital": -72285215,
+        "Cuota": -29451523,
+        "Pago intereses": -7770661,
+        "Amortizacion": -21680863
+    },
+    {
+        "Ano": 7,
+        "Capital": -50604352,
+        "Cuota": -29451523,
+        "Pago intereses": -5439968,
+        "Amortizacion": -24011555
+    },
+    {
+        "Ano": 8,
+        "Capital": -26592797,
+        "Cuota": -29451523,
+        "Pago intereses": -2858726,
+        "Amortizacion": -26592797
+    }
+]

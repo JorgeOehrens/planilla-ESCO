@@ -1,0 +1,158 @@
+[
+    {
+        "Ano": 0,
+        "Factor degradacion": 0,
+        "Generacion ano": 0,
+        "kWh/kWp": 0
+    },
+    {
+        "Ano": 1,
+        "Factor degradacion": 1,
+        "Generacion ano": 457695.970875,
+        "kWh/kWp": 1762.13125
+    },
+    {
+        "Ano": 2,
+        "Factor degradacion": 0.9955,
+        "Generacion ano": 455636.33900606254,
+        "kWh/kWp": 1754.2016593750002
+    },
+    {
+        "Ano": 3,
+        "Factor degradacion": 0.9910000000000001,
+        "Generacion ano": 453576.707137125,
+        "kWh/kWp": 1746.27206875
+    },
+    {
+        "Ano": 4,
+        "Factor degradacion": 0.9865000000000002,
+        "Generacion ano": 451517.07526818756,
+        "kWh/kWp": 1738.342478125
+    },
+    {
+        "Ano": 5,
+        "Factor degradacion": 0.9820000000000002,
+        "Generacion ano": 449457.4433992501,
+        "kWh/kWp": 1730.4128875000004
+    },
+    {
+        "Ano": 6,
+        "Factor degradacion": 0.9775000000000003,
+        "Generacion ano": 447397.81153031264,
+        "kWh/kWp": 1722.4832968750004
+    },
+    {
+        "Ano": 7,
+        "Factor degradacion": 0.9730000000000003,
+        "Generacion ano": 445338.1796613751,
+        "kWh/kWp": 1714.5537062500005
+    },
+    {
+        "Ano": 8,
+        "Factor degradacion": 0.9685000000000004,
+        "Generacion ano": 443278.54779243766,
+        "kWh/kWp": 1706.6241156250005
+    },
+    {
+        "Ano": 9,
+        "Factor degradacion": 0.9640000000000004,
+        "Generacion ano": 441218.9159235002,
+        "kWh/kWp": 1698.6945250000008
+    },
+    {
+        "Ano": 10,
+        "Factor degradacion": 0.9595000000000005,
+        "Generacion ano": 439159.2840545627,
+        "kWh/kWp": 1690.7649343750006
+    },
+    {
+        "Ano": 11,
+        "Factor degradacion": 0.9550000000000005,
+        "Generacion ano": 437099.6521856252,
+        "kWh/kWp": 1682.835343750001
+    },
+    {
+        "Ano": 12,
+        "Factor degradacion": 0.9505000000000006,
+        "Generacion ano": 435040.02031668776,
+        "kWh/kWp": 1674.905753125001
+    },
+    {
+        "Ano": 13,
+        "Factor degradacion": 0.9460000000000006,
+        "Generacion ano": 432980.3884477503,
+        "kWh/kWp": 1666.976162500001
+    },
+    {
+        "Ano": 14,
+        "Factor degradacion": 0.9415000000000007,
+        "Generacion ano": 430920.7565788128,
+        "kWh/kWp": 1659.046571875001
+    },
+    {
+        "Ano": 15,
+        "Factor degradacion": 0.9370000000000007,
+        "Generacion ano": 428861.1247098753,
+        "kWh/kWp": 1651.1169812500011
+    },
+    {
+        "Ano": 16,
+        "Factor degradacion": 0.9325000000000008,
+        "Generacion ano": 426801.49284093786,
+        "kWh/kWp": 1643.1873906250014
+    },
+    {
+        "Ano": 17,
+        "Factor degradacion": 0.9280000000000008,
+        "Generacion ano": 424741.8609720004,
+        "kWh/kWp": 1635.2578000000015
+    },
+    {
+        "Ano": 18,
+        "Factor degradacion": 0.9235000000000009,
+        "Generacion ano": 422682.2291030629,
+        "kWh/kWp": 1627.3282093750015
+    },
+    {
+        "Ano": 19,
+        "Factor degradacion": 0.9190000000000009,
+        "Generacion ano": 420622.5972341254,
+        "kWh/kWp": 1619.3986187500016
+    },
+    {
+        "Ano": 20,
+        "Factor degradacion": 0.914500000000001,
+        "Generacion ano": 418562.96536518796,
+        "kWh/kWp": 1611.4690281250018
+    },
+    {
+        "Ano": 21,
+        "Factor degradacion": 0.910000000000001,
+        "Generacion ano": 416503.33349625045,
+        "kWh/kWp": 1603.5394375000017
+    },
+    {
+        "Ano": 22,
+        "Factor degradacion": 0.9055000000000011,
+        "Generacion ano": 414443.701627313,
+        "kWh/kWp": 1595.6098468750017
+    },
+    {
+        "Ano": 23,
+        "Factor degradacion": 0.9010000000000011,
+        "Generacion ano": 412384.0697583755,
+        "kWh/kWp": 1587.680256250002
+    },
+    {
+        "Ano": 24,
+        "Factor degradacion": 0.8965000000000012,
+        "Generacion ano": 410324.43788943806,
+        "kWh/kWp": 1579.750665625002
+    },
+    {
+        "Ano": 25,
+        "Factor degradacion": 0.8920000000000012,
+        "Generacion ano": 408264.80602050055,
+        "kWh/kWp": 1571.821075000002
+    }
+]
