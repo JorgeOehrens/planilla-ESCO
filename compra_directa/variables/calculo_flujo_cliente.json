@@ -1,0 +1,19 @@
+
+{
+    "Calculo flujo cliente":{
+    "Venta planta solar": 194585942,
+    "Venta adicionales": 23157895,
+
+    "Venta total": 217743837,
+    "Tipo de tarifa*": "AT4.3",
+    "Consumo": 72.10,
+    "Transporte, servicio etc.*": 19.21,
+    "Inyeccion": 320387.1796,
+    "Tasa de descuento para VAN": 6,
+    "Margen de Venta planta solar": 17,
+    "Margen de Venta adicionales": 5,
+    "Margen de O&M": 20
+    
+}
+
+}

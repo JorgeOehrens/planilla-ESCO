@@ -1,0 +1,66 @@
+
+{
+
+
+    "2022":{
+        "variacion proyectada": 10.77,
+        "Precio estimado energia CLP": 66.96,
+        "Fondo estab y emergencia (cons>1000kWh/mes)": 3,
+        "Precio estimado energia CLP total": 2.8,
+        "Precio estm. real CLP Energia": 69.76,
+        "Variacion proyectada transporte": 0,
+        "Precio estm. CLP Transporte": 19.21,
+        "Precio estm. real CLP Transporte": 19.21,
+        "Precio estm. nominal CLP Transporte": 21.12266911,
+        "Precio estm. nominal CLP energia": 104.7672482,
+        "Factor": 1,
+        "CPI": 0,
+        "CPI acumulado": 1,
+        "IPC": 0,
+        "IPC acumulado": 1,
+        "CPIx(0,5xIPC) - efecto dolar": 0,
+        "efecto dolar acumulado": 1
+        },
+
+
+    "2023":{
+    "variacion proyectada": 10.77,
+    "Precio estimado energia CLP": 66.96,
+    "Fondo estab y emergencia (cons>1000kWh/mes)": 3,
+    "Precio estimado energia CLP total": 2.8,
+    "Precio estm. real CLP Energia": 69.76,
+    "Variacion proyectada transporte": 0,
+    "Precio estm. CLP Transporte": 19.21,
+    "Precio estm. real CLP Transporte": 19.21,
+    "Precio estm. nominal CLP Transporte": 21.12266911,
+    "Precio estm. nominal CLP energia": 104.7672482,
+    "Factor": 1,
+    "CPI": 0,
+    "CPI acumulado": 1,
+    "IPC": 5,
+    "IPC acumulado": 1,
+    "CPIx(0,5xIPC) - efecto dolar": 0,
+    "efecto dolar acumulado": 1
+    },  
+
+
+    "2024":{
+    "variacion proyectada": 15,
+    "Fondo estab y emergencia (cons>1000kWh/mes)": 43.481,
+    "Precio estimado energia CLP total": 9.5,
+    "Precio estm. real CLP Energia": 85.72,
+    "Variacion proyectada transporte": 0,
+    "Precio estm. CLP Transporte": 19.21,
+    "Precio estm. real CLP Transporte": 19.21,
+    "Precio estm. nominal CLP Transporte": 22.00549649,
+    "Precio estm. nominal CLP energia": 110.5502683,
+    "Factor": 1,
+    "CPI": 0,
+    "CPI acumulado": 1,
+    "IPC": 4,
+    "IPC acumulado": 1,
+    "CPIx(0,5xIPC) - efecto dolar": 0,
+    "efecto dolar acumulado": 1
+    }
+
+}

@@ -1,0 +1,23 @@
+[
+    {
+        "Potencia peak deseada": 160,
+        "Sobredimensionamiento": 123.68571428571428,
+        "Potencia inversores": 210,
+        "Combinacion de inversores": 262.5,
+        "Potencia de panel": 0,
+        "Cantidad de paneles": 481,
+        "Potencia peak": 259.74,
+        "Comuna instalacion": "Alto del Carmen",
+        "Region/Zona": "Region de Atacama",
+        "Generacion especifica": 1762.13125,
+        "Generacion inicial total": 457695.970875,
+        "Balance generacion/consumo": 169648215476.61487,
+        "Categoria Zona": "Region Atacama",
+        "Categoria Tipo Montaje*": "Techo coplanar",
+        "Superficie max. paneles": 2337.66,
+        "Costo anual por O&M": 3563948,
+        "Costo Planta Solar": 161506332.0,
+        "Costos Adicionales*": 22000000,
+        "Costo total": 183506332.0
+    }
+]

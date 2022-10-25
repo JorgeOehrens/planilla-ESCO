@@ -1,0 +1,1 @@
+## Todos los porcentajes  a las funciones serán entregados en formato 0.1 (10%)

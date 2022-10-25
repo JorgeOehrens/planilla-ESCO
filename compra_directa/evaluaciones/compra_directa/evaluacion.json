@@ -1,0 +1,38 @@
+{
+    "2022": {
+        "Ingresos por inyeccion FV": 0,
+        "Inversion planta FV": -217743837,
+        "O&M y admin FV": 0.0,
+        "Pago distribuidora": 0,
+        "Pago anual energia con FV-": 0.0,
+        "Pago anual energia sin FV": 0,
+        "Pago anual energia con FV+": 0,
+        "Ahorro anual": -217743837,
+        "Ahorro acumulado": -217743837,
+        "Linea para TIR": -194585942
+    },
+    "2023": {
+        "Ingresos por inyeccion FV": 33566064,
+        "Inversion planta FV": 0,
+        "O&M y admin FV": -4454935.0,
+        "Pago distribuidora": -29376187,
+        "Pago anual energia con FV-": -265058.0,
+        "Pago anual energia sin FV": 46661979,
+        "Pago anual energia con FV+": 265058,
+        "Ahorro anual": 46396921,
+        "Ahorro acumulado": -171346916,
+        "Linea para TIR": 29111129.0
+    },
+    "2024": {
+        "Ingresos por inyeccion FV": 35259455,
+        "Inversion planta FV": 0,
+        "O&M y admin FV": -4454935.0,
+        "Pago distribuidora": -31013555,
+        "Pago anual energia con FV-": -209035.0,
+        "Pago anual energia sin FV": 49132722,
+        "Pago anual energia con FV+": 209035,
+        "Ahorro anual": 48923687,
+        "Ahorro acumulado": -122423229,
+        "Linea para TIR": 30804520.0
+    }
+}

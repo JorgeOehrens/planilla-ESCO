@@ -1,0 +1,17 @@
+{
+    "2022": {
+       "Factor degradacion": 0,
+       "Generacion ano": 0,
+       "kWh/kWp": 0
+    },
+    "2023": {
+       "Factor degradacion": 100,
+       "Generacion ano": 457696,
+       "kWh/kWp": 1762
+    },
+    "2024": {
+       "Factor degradacion": 99.55,
+       "Generacion ano": 455636,
+       "kWh/kWp": 1754
+    }
+ }

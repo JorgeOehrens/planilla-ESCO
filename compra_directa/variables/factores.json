@@ -1,0 +1,17 @@
+[
+    {
+       "Potencia kWAC": 40,
+       "Combinacion de inversores": "GW20KT-MT + GW20KT-MT",
+       "Pdc max (kWp)": 50
+    },
+    {
+        "Potencia kWAC": 50,
+        "Combinacion de inversores": "GW50KN-MT",
+        "Pdc max (kWp)": 62.5
+     },
+     {
+        "Potencia kWAC": 210,
+        "Combinacion de inversores": "GW80K-MT + GW80K-MT + GW50KN-MT",
+        "Pdc max (kWp)": 262.5
+     }
+ ]

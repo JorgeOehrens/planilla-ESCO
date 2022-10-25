@@ -1,0 +1,50 @@
+[
+    {
+       "Mes": "Enero",
+       "kWh/Mes": 61504
+    },
+    {
+       "Mes": "Febrero",
+       "kWh/Mes": 124678
+    },
+    {
+       "Mes": "Marzo",
+       "kWh/Mes": 48040
+    },
+    {
+       "Mes": "Abril",
+       "kWh/Mes": 14128
+    },
+    {
+       "Mes": "Mayo",
+       "kWh/Mes": 6080
+    },
+    {
+       "Mes": "Junio",
+       "kWh/Mes": 3381
+    },
+    {
+       "Mes": "Julio",
+       "kWh/Mes": 7633
+    },
+    {
+       "Mes": "Agosto",
+       "kWh/Mes": 4703
+    },
+    {
+       "Mes": "Septiembre",
+       "kWh/Mes": 4573
+    },
+    {
+       "Mes": "Octubre",
+       "kWh/Mes": 3787
+    },
+    {
+       "Mes": "Noviembre",
+       "kWh/Mes": 23068
+    },
+    {
+       "Mes": "Diciembre",
+       "kWh/Mes": 69082
+    }
+ ]

@@ -1,0 +1,29 @@
+{ 
+    
+    "2022":{
+      
+        "Consumo cliente": 0,
+        "Generacion ano": 0,
+        "Inyeccion": 0,
+        "Autoconsumo": 0,
+        "Consumo distribuidora": 0
+    },
+    "2023":{
+      
+        "Consumo cliente": 370657,
+        "Generacion ano": 457696,
+        "Inyeccion": 320387,
+        "Autoconsumo": 137.309,
+        "Consumo distribuidora": 233348.2087
+    },
+    "2024":{
+      
+        "Consumo cliente": 370657,
+        "Generacion ano": 457696,
+        "Inyeccion": 318945,
+        "Autoconsumo": 137.309,
+        "Consumo distribuidora": 233966.0983
+    }
+
+
+}

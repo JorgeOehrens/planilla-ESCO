@@ -1,0 +1,82 @@
+
+{
+
+    "2022":{
+        "Ingresos y Egresos":
+        {
+        "Ingreso venta energia PPA": 0, 
+        "Ingreso potencia": 0,
+        "Costo de venta": 0,
+        "O&M y Admin": 0,
+        "Margen Bruto": 0
+        },
+        "Flujos":
+        {
+        "Depreciacion_positiva":0 ,
+        "EBIT": 0,
+        "Gasto financiero":0,
+        "Resultado antes de impuesto": 0,
+        "Impuesto a la Renta": -0,
+        "Utilidad del ejercicio" : 0,
+        "Amortización Deuda": 0 ,
+        "Inversión Capital Físico y Reposición": -161506332,
+        "Depreciacion_negativa": 0,
+        "FLUJO DE EFECTIVO": -161506332,
+        "Flujo de efectivo antes de impuesto":  -161506332,
+        "Flujo de efectivo Acumulado": -161506332
+        }
+    },
+
+
+    "2023":{
+        "Ingresos y Egresos":
+        {
+        "Ingreso venta energia PPA": 40039542, 
+        "Ingreso potencia": 0,
+        "Costo de venta": 0,
+        "O&M y Admin": -3563948,
+        "Margen Bruto": 35950329
+        },
+        "Flujos":
+        {
+        "Depreciacion_positiva": -13458861,
+        "EBIT": 22491468,
+        "Gasto financiero":0,
+        "Resultado antes de impuesto": 22491468,
+        "Impuesto a la Renta": -4255750,
+        "Utilidad del ejercicio" : 18235718,
+        "Amortización Deuda": 0 ,
+        "Inversión Capital Físico y Reposición": -161.506332,
+        "Depreciacion_negativa": 13458861,
+        "FLUJO DE EFECTIVO": -161506332,
+        "Flujo de efectivo antes de impuesto":  35950329,
+        "Flujo de efectivo Acumulado": -129811753
+        }
+    },
+    "2024":{
+        "Ingresos y Egresos":
+        {
+        "Ingreso venta energia PPA": 42059551, 
+        "Ingreso potencia": 0,
+        "Costo de venta": 0,
+        "O&M y Admin": -3563948,
+        "Margen Bruto": 35950329
+        },
+        "Flujos":
+        {
+        "Depreciacion_positiva": -13458861,
+        "EBIT": 22491468,
+        "Gasto financiero":0,
+        "Resultado antes de impuesto": 22491468,
+        "Impuesto a la Renta": -4255750,
+        "Utilidad del ejercicio" : 18235718,
+        "Amortización Deuda": 0 ,
+        "Inversión Capital Físico y Reposición": -161.506332,
+        "Depreciacion_negativa": 13458861,
+        "FLUJO DE EFECTIVO": -161506332,
+        "Flujo de efectivo antes de impuesto":  35950329,
+        "Flujo de efectivo Acumulado": -129811753
+        }
+    }
+
+}
